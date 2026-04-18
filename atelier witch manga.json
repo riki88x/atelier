@@ -1,0 +1,18 @@
+{
+  "title": "Atelier Of Witch Hat (ES)",
+  "description": "Traducido por: Milky Way",
+  "artist": "Kahome Shirahama",
+  "author": "Kahome Shirahama",
+  "cover": "https://pbs.twimg.com/media/G6jHjr_WYAALuqL?format=jpg&name=4096x4096",
+  "chapters": {
+ "001": {
+      "title": "Volumen 01",
+      "volume": "01",
+      "last_updated": "1698678000",
+      "groups": {
+        "Milky Way": "/proxy/api/imgur/chapter/ko0yVUy"
+      }
+    },
+    }
+  }
+}
