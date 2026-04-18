@@ -4,5 +4,22 @@
   "artist": "Kamome Shirahama",
   "author": "Kamome Shirahama",
   "cover": "https://pbs.twimg.com/media/G6jHjr_WYAALuqL?format=jpg&name=4096x4096",
-  "chapters": {}
+  "chapters": {
+    "001": {
+      "title": "001",
+      "volume": "01",
+      "last_updated": "1776553722",
+      "groups": {
+        "Milky Way": "/proxy/api/imgur/chapter/ko0yVUy/"
+      }
+    },
+    "002": {
+      "title": "002",
+      "volume": "01",
+      "last_updated": "1776553750",
+      "groups": {
+        "Milky Way": "/proxy/api/imgur/chapter/v6hy9JY/"
+      }
+    }
+  }
 }
