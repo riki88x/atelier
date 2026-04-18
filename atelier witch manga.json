@@ -1,18 +1,26 @@
 {
   "title": "Atelier Of Witch Hat (ES)",
-  "description": "Traducido por: Milky Way",
-  "artist": "Kahome Shirahama",
-  "author": "Kahome Shirahama",
+  "description": "Coco es una niña de origen humilde e hija de una costurera en una aldea ordinaria, que sueña con convertirse en una hechicera pese a su carencia de habilidad mágica innata. Un día, luego de conocer a un joven mago llamado Qifrey y al atestiguar cómo realiza un hechizo, Coco descubre que la magia se practica a partir de dibujar con tinta mágica runa que manifiestan la magia, por lo que cualquiera puede ser un hechicero. Sin embargo, cuando decide practicar hechizos sin supervisión y utilizando un libro que le vendió un misterioso mago, Coco convierte por accidente a su madre en piedra y logra salvarse por poco de ser afectada del hechizo por intervención de Qifrey",
+  "artist": "	Kamome Shirahama",
+  "author": "	Kamome Shirahama",
   "cover": "https://pbs.twimg.com/media/G6jHjr_WYAALuqL?format=jpg&name=4096x4096",
   "chapters": {
- "002": {
-      "title": "Volumen 01",
+    "001": {
+      "title": "Capitulo 01",
       "volume": "01",
-      "last_updated": "1698678000",
       "groups": {
-        "Milky Way": "/proxy/api/imgur/chapter/v6hy9JY"
-      }
+        "Milky Way": "/proxy/api/imgur/chapter/ko0yVUy/"
+      },
+      "last_updated": "1776562008"
     },
-    }
+    "002": {
+      "title": "Capitulo 02",
+      "volume": "01",
+      "groups": {
+        "Milky Way": "/proxy/api/imgur/chapter/v6hy9JY/"
+      },
+      "last_updated": "1616368746"
+    },
+    },
   }
 }
